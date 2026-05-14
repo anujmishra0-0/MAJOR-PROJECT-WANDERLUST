@@ -166,8 +166,8 @@ The app reads `process.env.PORT` automatically for Render's dynamic port.
 
 ## Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+Anuj Kumar Mishra
+GitHub:https://github.com/anujmishra0-0
 
 ---
 
